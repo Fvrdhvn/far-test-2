@@ -10,6 +10,11 @@
 <body>
     <h1>Halo Dunia!</h1>
 </body>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, harum?
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, harum?</p>
+<ul>
+    <li>blablabla</li>
+    <li>blablabla</li>
+    <li>blablabla</li>
+</ul>
 
 </html>
